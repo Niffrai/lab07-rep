@@ -1,0 +1,3 @@
+--CREATE TABLESPACE space22 OWNER "user7" LOCATION '/media/dobrinya/e47b3702-1585-4d34-8bbe-2e718c015a4c';
+CREATE TABLESPACE space33 OWNER "user7" LOCATION '/dev/tecmint_iscsi/space3';
+--CREATE TABLESPACE space44 OWNER "user7" LOCATION '/dev/tecmint_iscsi/space4';
